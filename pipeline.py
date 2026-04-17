@@ -1,1 +1,1 @@
-print("pipeline pushed successfully")
+print(" quick pipeline pushed successfully")
